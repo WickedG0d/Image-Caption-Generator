@@ -1,5 +1,5 @@
 # Image-Caption-Generator
-
+Generating Captions for a given Image.
 
 Steps:
 
@@ -11,6 +11,10 @@ Steps:
 6. Now type the following command “ python testing_caption_generator.py –i <filename.jpg> ” 
 In the above command testing_caption_generator.py is the name of our python file, -i is used to command used to include the image file and filename is the name of the image followed by the .jpg extension.
 7. Now you should be able to see the results between the “start” and “end” which is fixed.
+
+Dataset Download Link: https://www.kaggle.com/datasets/adityajn105/flickr8k?select=Images
+
+References: https://medium.com/@raman.shinde15/image-captioning-with-flickr8k-dataset-bleu-4bcba0b52926#:~:text=Flickr8k_Dataset%3A%20Contains%20a%20total%20of,token.
 
 
 LinkedIn: https://www.linkedin.com/in/abbas-ali-jamadar-02682b174/
